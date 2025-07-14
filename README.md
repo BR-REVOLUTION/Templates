@@ -1,1 +1,1 @@
-# Templates
+# AMP Templates
